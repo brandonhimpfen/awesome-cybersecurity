@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Cybersecurity"
+abstract: "A curated list of tools, frameworks, research papers, educational resources, standards, datasets, and open-source projects related to cybersecurity, information security, privacy, and digital defense."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-cybersecurity"
+keywords:
+  - cybersecurity
+  - information security
+  - network security
+  - privacy
+  - digital security
+  - ethical hacking
+  - threat intelligence
+  - penetration testing
+  - cyber defense
+  - awesome list
