@@ -52,7 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Burp Suite](https://portswigger.net/burp) – Web vulnerability scanner and proxy tool.
 - [Nmap](https://nmap.org/) – Network scanner for discovery and security auditing.
 - [OWASP ZAP](https://www.zaproxy.org/) – Open-source web application security scanner.
-- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) – Search public GitHub proof-of-concept repositories by CVE identifier.
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) – Instantly find public GitHub proof-of-concept exploit code for any CVE identifier.
 
 ## Malware Analysis & Reverse Engineering
 
