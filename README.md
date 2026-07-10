@@ -51,6 +51,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Metasploit Framework](https://www.metasploit.com/) – Popular penetration testing platform.
 - [Burp Suite](https://portswigger.net/burp) – Web vulnerability scanner and proxy tool.
 - [Nmap](https://nmap.org/) – Network scanner for discovery and security auditing.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) – Open-source (GPL-3.0) autonomous AI penetration-testing platform and MCP host with per-technology offensive sub-agents for web, Active Directory, and Kubernetes.
 - [OWASP ZAP](https://www.zaproxy.org/) – Open-source web application security scanner.
 
 ## Malware Analysis & Reverse Engineering
