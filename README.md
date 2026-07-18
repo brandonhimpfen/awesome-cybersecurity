@@ -94,6 +94,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Auth0](https://auth0.com/) – Identity-as-a-service for authentication and authorization.
 - [Passbolt](https://www.passbolt.com/) – Self-hosted open-source password manager for teams.
 - [Have I Been Pwned](https://haveibeenpwned.com/) – Check if your credentials have been exposed.
+- [Clearly](https://clearlyprivacy.app/) – iOS app that monitors the Have I Been Pwned catalog and alerts you when your accounts appear in a new breach.
 
 ## Cloud Security
 
