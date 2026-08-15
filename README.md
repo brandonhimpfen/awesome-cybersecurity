@@ -80,6 +80,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [TheHarvester](https://github.com/laramies/theHarvester) – OSINT gathering tool for domains, emails, IPs.
 - [Amass](https://github.com/owasp-amass/amass) – In-depth DNS enumeration and network mapping.
 - [Autopsy](https://www.sleuthkit.org/autopsy/) – GUI for digital forensics and incident response.
+- [ShieldScope](https://shieldscope.app/) – Free client-side security tools: HTTP header analysis, hash/checksum verification, credential exposure checks, and internet-facing attack surface mapping. No account required.
 
 ## Incident Response & Forensics
 
