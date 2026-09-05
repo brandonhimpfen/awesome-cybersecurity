@@ -1,4 +1,4 @@
-# Awesome Cybersecurity [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Cybersecurity [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19673011.svg)](https://doi.org/10.5281/zenodo.19673011)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -118,10 +118,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome OSINT](https://github.com/awesomelistsio/awesome-osint)** – Open-source intelligence tools and resources.
-- **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy)** – Tools and resources for personal data protection.
-- **[Awesome Digital Rights](https://github.com/awesomelistsio/awesome-digital-rights)** – Advocacy tools and organizations defending online rights.
-- **[Awesome Threat Intelligence](https://github.com/awesomelistsio/awesome-threat-intelligence)** – Curated resources for threat intel.
+- **[Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint)** – Open-source intelligence tools and resources.
+- **[Awesome Privacy](https://github.com/brandonhimpfen/awesome-privacy)** – Tools and resources for personal data protection.
+- **[Awesome Digital Rights](https://github.com/brandonhimpfen/awesome-digital-rights)** – Advocacy tools and organizations defending online rights.
+- **[Awesome Threat Intelligence](https://github.com/brandonhimpfen/awesome-threat-intelligence)** – Curated resources for threat intel.
 
 ## Contribute
 
