@@ -76,6 +76,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Web Security Academy](https://portswigger.net/web-security) – Free learning resources on web vulnerabilities.
 - [Security Headers](https://securityheaders.com/) – Analyze HTTP response headers for best practices.
 - [SQLMap](https://sqlmap.org/) – Automatic SQL injection and database takeover tool.
+- [KeyDrift](https://keydrift.dev) – Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Security Tools
 
