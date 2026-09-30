@@ -82,7 +82,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.
 - [TheHarvester](https://github.com/laramies/theHarvester) – OSINT gathering tool for domains, emails, IPs.
 - [Amass](https://github.com/owasp-amass/amass) – In-depth DNS enumeration and network mapping.
-- [Autopsy](https://www.sleuthkit.org/Autopsy/) – GUI for digital forensics and incident response.
+- [Autopsy](https://www.sleuthkit.org/autopsy/) – GUI for digital forensics and incident response.
 
 - [cl0q](https://cl0q.com) – Open search engine for domain research, 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking.
 
