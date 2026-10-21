@@ -55,6 +55,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Burp Suite](https://portswigger.net/burp) – Web vulnerability scanner and proxy tool.
 - [Nmap](https://nmap.org/) – Network scanner for discovery and security auditing.
 - [OWASP ZAP](https://www.zaproxy.org/) – Open-source web application security scanner.
+- [Website Vulnerability Scanner CE](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) – Self-hosted web application security scanner with 200 deterministic scanner modules.
 
 ## Malware Analysis & Reverse Engineering
 
