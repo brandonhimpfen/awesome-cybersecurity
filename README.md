@@ -55,6 +55,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Burp Suite](https://portswigger.net/burp) – Web vulnerability scanner and proxy tool.
 - [Nmap](https://nmap.org/) – Network scanner for discovery and security auditing.
 - [OWASP ZAP](https://www.zaproxy.org/) – Open-source web application security scanner.
+- [Control Pack](https://www.exploitpack.com/products/control-pack) – Commercial multi-agent user-mode command-and-control framework for remote tasking, post-exploitation, and traffic tunneling.
 
 ## Malware Analysis & Reverse Engineering
 
